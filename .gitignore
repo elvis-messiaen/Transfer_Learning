@@ -2,4 +2,5 @@ mlruns/*/artifacts/VGG16_Dynamique/data/model.keras
 mlruns/*/artifacts/VGG16_Dynamique/data/model.keras
 mlruns/
 data/
+chest_xray/mlruns/
 chest_xray/
