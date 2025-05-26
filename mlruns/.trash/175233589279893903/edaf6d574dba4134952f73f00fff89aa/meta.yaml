@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/175233589279893903/edaf6d574dba4134952f73f00fff89aa/artifacts
+deleted_time: 1748249111570
+end_time: 1748248645210
+entry_point_name: ''
+experiment_id: '175233589279893903'
+lifecycle_stage: deleted
+run_id: edaf6d574dba4134952f73f00fff89aa
+run_name: melodic-asp-279
+run_uuid: edaf6d574dba4134952f73f00fff89aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248392489
+status: 4
+tags: []
+user_id: elvismessiaen

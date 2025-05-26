@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/814414007209142655/650aeaa1cf924aa38d56a33d7a93e242/artifacts
+deleted_time: 1748264436133
+end_time: 1748255543575
+entry_point_name: ''
+experiment_id: '814414007209142655'
+lifecycle_stage: deleted
+run_id: 650aeaa1cf924aa38d56a33d7a93e242
+run_name: VGG16 Adaptatif 15 epochs, 32 batch, 128 units
+run_uuid: 650aeaa1cf924aa38d56a33d7a93e242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748255448949
+status: 4
+tags: []
+user_id: elvismessiaen

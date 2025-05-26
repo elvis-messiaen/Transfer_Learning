@@ -1,0 +1,19 @@
+artifact_path: VGG16_classifier
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0.dev2025052303
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.10
+mlflow_version: 2.22.0
+model_size_bytes: 59243167
+model_uuid: b05bce0f9b0743598def9f6a9995aa25
+prompts: null
+run_id: 0b05c2795010422b8749f064280fc3c1
+utc_time_created: '2025-05-26 09:54:27.639852'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/313186046198404367/901379fa11a44ac3bf05d72e7e647e58/artifacts
+end_time: 1748266672659
+entry_point_name: ''
+experiment_id: '313186046198404367'
+lifecycle_stage: active
+run_id: 901379fa11a44ac3bf05d72e7e647e58
+run_name: VGG16 Dynamique 10 epochs, 15 batch
+run_uuid: 901379fa11a44ac3bf05d72e7e647e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748266128443
+status: 3
+tags: []
+user_id: elvismessiaen

@@ -1,0 +1,19 @@
+artifact_path: VGG16_Dynamique
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0.dev2025052303
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.10
+mlflow_version: 2.22.0
+model_size_bytes: 329475828
+model_uuid: 878a34057ae549a5bae83aa063811aec
+prompts: null
+run_id: 901379fa11a44ac3bf05d72e7e647e58
+utc_time_created: '2025-05-26 13:37:44.091423'

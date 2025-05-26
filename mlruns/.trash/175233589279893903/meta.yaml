@@ -1,0 +1,7 @@
+artifact_location: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/175233589279893903
+creation_time: 1748248392393
+experiment_id: '175233589279893903'
+last_update_time: 1748249111570
+lifecycle_stage: deleted
+name: VGG16 Classifier
+tags: {}

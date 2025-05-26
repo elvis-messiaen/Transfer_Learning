@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/520689031399307720/112401f72122420493b7e102db37dcf6/artifacts
+end_time: 1748253583131
+entry_point_name: ''
+experiment_id: '520689031399307720'
+lifecycle_stage: active
+run_id: 112401f72122420493b7e102db37dcf6
+run_name: VGG16 Classifier
+run_uuid: 112401f72122420493b7e102db37dcf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748253552519
+status: 3
+tags: []
+user_id: elvismessiaen

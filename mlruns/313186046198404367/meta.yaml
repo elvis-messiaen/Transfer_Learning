@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Simplon/Cours/deep_learning/Transfer_Learning/Transfer_Learning/mlruns/313186046198404367
+creation_time: 1748265255866
+experiment_id: '313186046198404367'
+last_update_time: 1748265255866
+lifecycle_stage: active
+name: VGG16 Classifier Adaptatif test
